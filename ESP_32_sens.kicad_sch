@@ -1,0 +1,105 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "185194d2-a1d5-42f3-9012-92a466d7f7ac")
+	(paper "A4")
+	(title_block
+		(title "Motion_Tracker_V0")
+	)
+	(lib_symbols)
+	(sheet
+		(at 150.495 29.845)
+		(size 66.04 53.34)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "45dd9c6b-56f3-4912-96e3-9cc680cf42e4")
+		(property "Sheetname" "PSU"
+			(at 150.495 26.5934 0)
+			(effects
+				(font
+					(size 6.35 6.35)
+					(thickness 1.27)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PSU_ESP_32_sens.kicad_sch"
+			(at 150.495 83.7696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP_32_sens"
+				(path "/185194d2-a1d5-42f3-9012-92a466d7f7ac"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 30.48)
+		(size 62.865 53.34)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "63c029fd-37b7-4d04-b05f-52b8dfca158d")
+		(property "Sheetname" "MCU"
+			(at 38.1 27.2284 0)
+			(effects
+				(font
+					(size 6.35 6.35)
+					(thickness 1.27)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp_MCU_sensor.kicad_sch"
+			(at 38.1 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP_32_sens"
+				(path "/185194d2-a1d5-42f3-9012-92a466d7f7ac"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
