@@ -2694,6 +2694,16 @@
 		)
 		(uuid "d41bffd0-c78a-4b13-951e-5e7d2445b700")
 	)
+	(text "PSU design is heavily inspired by Phils Lab design *"
+		(exclude_from_sim no)
+		(at 257.81 16.256 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d50785c4-3ff7-4cb9-9abb-dbe747503c16")
+	)
 	(junction
 		(at 67.31 118.11)
 		(diameter 0)
