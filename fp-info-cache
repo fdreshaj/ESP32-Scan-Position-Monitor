@@ -1,4 +1,4 @@
-25597580220863465
+25609867174484735
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90188,6 +90188,27 @@ Potentiometer vertical vishay
 3
 3
 RF
+AMP_BGA725L6E6327FTSA1
+
+
+0
+6
+6
+RF
+ARRAY_LIV3R_STM
+
+TESEO-LIV3R 
+0
+18
+18
+RF
+FIL_B39162B4327P810
+
+
+0
+5
+5
+RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
 Skyworks
@@ -91454,6 +91475,20 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+RF_extra
+AMP_BGA725L6E6327FTSA1
+
+
+0
+6
+6
+RF_extra
+ARRAY_LIV3R_STM
+
+TESEO-LIV3R 
+0
+18
+18
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
@@ -102642,6 +102677,20 @@ Varistor VF
 2
 new_project_files
 BMI323_BOS
+
+BMI323 
+0
+14
+14
+new_project_files
+BMI323_BOS-L
+
+BMI323 
+0
+14
+14
+new_project_files
+BMI323_BOS-M
 
 BMI323 
 0

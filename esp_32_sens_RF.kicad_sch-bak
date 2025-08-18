@@ -2165,6 +2165,16 @@
 		)
 		(uuid "17e71fbc-f970-4df8-8467-e0260fdc1992")
 	)
+	(text "use 0201 for RF\n"
+		(exclude_from_sim no)
+		(at 130.556 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1e78224c-4d65-48c7-b28a-66ed03eaa4ca")
+	)
 	(text " I2C slave mode only"
 		(exclude_from_sim no)
 		(at 144.018 106.426 0)
@@ -3274,7 +3284,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RF:AMP_BGA725L6E6327FTSA1"
+		(property "Footprint" "BGA725L6E6327FTSA1:AMP_BGA725L6E6327FTSA1"
 			(at 177.8 88.9 0)
 			(effects
 				(font
@@ -3395,7 +3405,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RF:FIL_B39162B4327P810"
+		(property "Footprint" "B39162B4327P810:FIL_B39162B4327P810"
 			(at 220.98 91.44 0)
 			(effects
 				(font
@@ -3647,7 +3657,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" ""
 			(at 68.58 36.83 0)
 			(effects
 				(font
@@ -3983,7 +3993,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" ""
 			(at 60.6552 120.65 0)
 			(effects
 				(font
@@ -4120,7 +4130,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" ""
 			(at 167.132 113.03 90)
 			(effects
 				(font
@@ -4189,7 +4199,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" ""
 			(at 209.55 125.4252 0)
 			(effects
 				(font
@@ -4325,7 +4335,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" ""
 			(at 84.7852 140.97 0)
 			(effects
 				(font
@@ -4529,7 +4539,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" ""
 			(at 80.9752 44.45 0)
 			(effects
 				(font
@@ -4733,7 +4743,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" ""
 			(at 56.8452 44.45 0)
 			(effects
 				(font
@@ -4868,7 +4878,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" ""
 			(at 80.9752 118.11 0)
 			(effects
 				(font
@@ -4936,7 +4946,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" ""
 			(at 153.67 88.9 0)
 			(effects
 				(font
@@ -5006,7 +5016,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" ""
 			(at 158.242 113.03 90)
 			(effects
 				(font
@@ -5141,7 +5151,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RF:ARRAY_LIV3R_STM"
+		(property "Footprint" "ARRAY_LIV3R_STM"
 			(at 91.44 115.57 0)
 			(effects
 				(font
@@ -5327,7 +5337,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" ""
 			(at 143.2052 87.63 0)
 			(effects
 				(font
@@ -5462,7 +5472,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" ""
 			(at 67.31 133.35 0)
 			(effects
 				(font
@@ -5597,7 +5607,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" ""
 			(at 240.03 126.492 90)
 			(effects
 				(font
@@ -5733,7 +5743,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" ""
 			(at 56.8452 140.97 0)
 			(effects
 				(font
@@ -5802,7 +5812,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" ""
 			(at 41.6052 123.19 0)
 			(effects
 				(font
@@ -5940,7 +5950,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RF_extra:IFA_2.45_TI"
+		(property "Footprint" ""
 			(at 104.14 28.575 0)
 			(effects
 				(font
@@ -6144,7 +6154,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" ""
 			(at 92.71 40.64 0)
 			(effects
 				(font
