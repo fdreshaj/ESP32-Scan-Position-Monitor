@@ -96,6 +96,51 @@
 			)
 		)
 	)
+	(sheet
+		(at 38.1 101.854)
+		(size 62.738 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d094f76b-5b88-42f9-a381-7ad20fa59e45")
+		(property "Sheetname" "RF"
+			(at 38.1 98.6024 0)
+			(effects
+				(font
+					(face "KiCad Font")
+					(size 6.35 6.35)
+					(thickness 1.27)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp_32_sens_RF.kicad_sch"
+			(at 38.1 164.6686 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP_32_sens"
+				(path "/185194d2-a1d5-42f3-9012-92a466d7f7ac"
+					(page "4")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

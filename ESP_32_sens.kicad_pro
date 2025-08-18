@@ -591,12 +591,30 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -652,6 +670,10 @@
     [
       "45dd9c6b-56f3-4912-96e3-9cc680cf42e4",
       "PSU"
+    ],
+    [
+      "d094f76b-5b88-42f9-a381-7ad20fa59e45",
+      "RF"
     ]
   ],
   "text_variables": {}
