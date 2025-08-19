@@ -1,4 +1,4 @@
-25609867174484735
+25616889593749838
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90314,6 +90314,13 @@ antenna rf
 3
 2
 RF_Antenna
+SGGP.25.4.A.02_TAL
+
+SGGP.25.4.A.02 
+0
+9
+9
+RF_Antenna
 Texas_SWRA117D_2.4GHz_Left
 http://www.ti.com/lit/an/swra117d/swra117d.pdf
 PCB antenna
@@ -90334,6 +90341,13 @@ PCB antenna
 0
 20
 1
+RF_Antenna
+patch_ant_gnss
+
+
+0
+0
+0
 RF_Converter
 Anaren_0805_2012Metric-6
 https://cdn.anaren.com/product-documents/Xinger/DirectionalCouplers/DC4759J5020AHF/DC4759J5020AHF_DataSheet(Rev_E).pdf
@@ -91489,6 +91503,20 @@ TESEO-LIV3R
 0
 18
 18
+RF_extra
+IFA_2.45_TI
+
+
+0
+2
+2
+RF_extra
+patch_ant_gnss
+
+
+0
+0
+0
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf

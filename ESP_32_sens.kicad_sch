@@ -8,6 +8,18 @@
 		(title "Motion_Tracker_V0")
 	)
 	(lib_symbols)
+	(text "[1]"
+		(exclude_from_sim no)
+		(at 272.796 22.352 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+			)
+		)
+		(uuid "89e0cdfb-05f9-4fcf-a4d1-9c09e36857c9")
+	)
 	(sheet
 		(at 150.495 29.845)
 		(size 66.04 53.34)
@@ -24,7 +36,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "45dd9c6b-56f3-4912-96e3-9cc680cf42e4")
-		(property "Sheetname" "PSU"
+		(property "Sheetname" "PSU [3]"
 			(at 150.495 26.5934 0)
 			(effects
 				(font
@@ -68,7 +80,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "63c029fd-37b7-4d04-b05f-52b8dfca158d")
-		(property "Sheetname" "MCU"
+		(property "Sheetname" "MCU [2]"
 			(at 38.1 27.2284 0)
 			(effects
 				(font
@@ -112,7 +124,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "d094f76b-5b88-42f9-a381-7ad20fa59e45")
-		(property "Sheetname" "RF"
+		(property "Sheetname" "RF [4]"
 			(at 38.1 98.6024 0)
 			(effects
 				(font
