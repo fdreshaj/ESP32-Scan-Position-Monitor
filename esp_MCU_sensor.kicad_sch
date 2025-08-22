@@ -5,7 +5,7 @@
 	(uuid "65483c2f-10ea-4984-b8d9-9e1c08cfbe13")
 	(paper "A4")
 	(title_block
-		(title "Motion_Tracker_V0")
+		(title "Motion_Tracker_V1")
 		(company "AMTL-CNDE / Flatrim Dreshaj")
 	)
 	(lib_symbols
