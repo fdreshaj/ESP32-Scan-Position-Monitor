@@ -5655,7 +5655,7 @@
 	)
 	(global_label "UART2_RX"
 		(shape input)
-		(at 149.86 118.11 0)
+		(at 149.86 115.57 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5665,7 +5665,7 @@
 		)
 		(uuid "26c62692-73db-4da2-861d-61aee95b883d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 162.1585 118.11 0)
+			(at 162.1585 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6029,7 +6029,7 @@
 	)
 	(global_label "UART2_TX"
 		(shape input)
-		(at 149.86 115.57 0)
+		(at 149.86 118.11 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6039,7 +6039,7 @@
 		)
 		(uuid "a9efc9f3-2dfa-49a4-bb2e-967ff944083c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.8561 115.57 0)
+			(at 161.8561 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
