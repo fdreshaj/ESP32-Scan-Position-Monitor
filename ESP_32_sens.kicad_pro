@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.0,
+          "height": 0.5,
+          "width": 0.9
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -196,6 +196,7 @@
         0.25,
         0.3,
         0.35,
+        0.355,
         0.5
       ],
       "tuning_pattern_settings": {
@@ -591,12 +592,30 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -628,6 +647,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
@@ -647,11 +674,15 @@
     ],
     [
       "63c029fd-37b7-4d04-b05f-52b8dfca158d",
-      "MCU"
+      "MCU [2]"
     ],
     [
       "45dd9c6b-56f3-4912-96e3-9cc680cf42e4",
-      "PSU"
+      "PSU [3]"
+    ],
+    [
+      "d094f76b-5b88-42f9-a381-7ad20fa59e45",
+      "RF [4]"
     ]
   ],
   "text_variables": {}
