@@ -16367,10 +16367,9 @@
 			(uuid "5ebeca91-8697-458f-8d42-59815cc4a34c")
 		)
 		(fp_text user "*"
-			(at -11.539999 -9.0016 270)
-			(unlocked yes)
+			(at -11.539999 -9.0016 90)
 			(layer "F.SilkS")
-			(uuid "4a04446f-54af-4f64-af36-d429541bdf7e")
+			(uuid "98359075-3ee3-4172-8eac-4dd4b2f4e4a5")
 			(effects
 				(font
 					(size 1 1)
@@ -16379,7 +16378,8 @@
 			)
 		)
 		(fp_text user "*"
-			(at -11.539999 -9.0016 90)
+			(at -11.539999 -9.0016 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "98359075-3ee3-4172-8eac-4dd4b2f4e4a5")
 			(effects
@@ -16404,7 +16404,7 @@
 		(fp_text user "*"
 			(at -11.539999 -9.0016 90)
 			(layer "F.Fab")
-			(uuid "3ddfd4c7-4337-4e4b-9b00-10d530e97e8f")
+			(uuid "edc0ccb4-5149-4955-9ff6-001074e11538")
 			(effects
 				(font
 					(size 1 1)
@@ -16425,8 +16425,8 @@
 			)
 		)
 		(pad "1" smd rect
-			(at -9 -9.0016 270)
-			(size 7.0104 7.0104)
+			(at 0 11.948401 270)
+			(size 1.397 1.397)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 26 "Net-(AE402-A)")
 			(pinfunction "A")
@@ -16470,8 +16470,8 @@
 			(uuid "9a5df05f-b471-41e3-bb3e-78e3b14b6961")
 		)
 		(pad "8" smd rect
-			(at 0 11.948401 270)
-			(size 1.397 1.397)
+			(at -9 -9.0016 270)
+			(size 7.0104 7.0104)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(uuid "73d1dc4d-cae0-4e92-911f-731e5538ff76")
 		)
@@ -24921,6 +24921,22 @@
 		(layer "In2.Cu")
 		(net 25)
 		(uuid "e7f796f8-3527-4502-be81-95829f4cc8b1")
+	)
+	(segment
+		(start 186.2675 102.7)
+		(end 188.6 102.7)
+		(width 0.355)
+		(layer "F.Cu")
+		(net 26)
+		(uuid "305401a1-b019-45e1-af14-392564f00643")
+	)
+	(segment
+		(start 188.6 102.7)
+		(end 188.7 102.6)
+		(width 0.355)
+		(layer "F.Cu")
+		(net 26)
+		(uuid "c8ac4367-406d-4c12-bce9-d532fce69095")
 	)
 	(segment
 		(start 161.6375 88.825)
